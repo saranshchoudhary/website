@@ -1,0 +1,10 @@
+                       SPARK FOUNDATION INTERNSHIP
+                             WEB DEVELOPMENT
+                        
+                          NAME-SARANSH CHOUDHARY
+                          PROJECT-BANK MANAGEMENT SYSTEM
+                    
+                         TOOLS AND TECHNOLOGY USED:
+                           FRONTEND:HTML,CSS,JAVASCRIPT
+                           BACKEND:PHP
+                           DATABASE:MYSQL                  
